@@ -1,1 +1,1 @@
-# project_sql
+Solutions to SQL Tutorials on [SQL Zoo](http://sqlzoo.net/wiki/SQL_Tutorial) as part of [The Odin Project](http://www.theodinproject.com/home)
